@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurav B
 
-<!--
-**Aurenox/Aurenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, building useful things, and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: C, Java, Python, JavaScript, HTML, CSS  
+- **Tools**: Git, VS Code, Linux, Windows  
+- **Frameworks & Libraries**: Bootstrap, Tailwind CSS, Google Fonts, Font Awesome  
+- **Databases**: MySQL, SQLite  
+- **Currently Learning**: React and AI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravatg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravatg&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [saurav.example@gmail.com](mailto:saurav.example@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sauravb](https://linkedin.com/in/sauravb)
+- 🌐 Portfolio: [sauravb.dev](https://sauravb.dev)
+
+---
+
+## 🔥 Fun Facts
+
+- 🎮 I love building fun side projects and automating boring tasks.  
+- 🌍 I enjoy learning about new cultures and languages.  
+- 💡 I believe in **"Code. Break. Repeat."**
+
+---
