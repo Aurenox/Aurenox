@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sauravatg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravatg&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravatg&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
