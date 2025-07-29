@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravatg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravatg&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravatg&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [saurav.example@gmail.com](mailto:saurav.example@gmail.com)
+- 📧 Email: [saurav04atg@gmail.com](mailto:saurav04atg@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sauravb](https://linkedin.com/in/sauravb)
 - 🌐 Portfolio: [sauravb.dev](https://sauravb.dev)
 
