@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 ## 📫 How to Reach Me
 
 - 📧 Email: [saurav04atg@gmail.com](mailto:saurav04atg@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sauravb](https://linkedin.com/in/sauravb)
+- 💼 LinkedIn: [linkedin.com/in/saurav-b-a864a7326](https://in.linkedin.com/in/saurav-b-a864a7326)
 - 🌐 Portfolio: [sauravb.dev](https://sauravb.dev)
 
 ---
