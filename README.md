@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 
 - **Languages**: C, Java, Python, JavaScript, HTML, CSS  
 - **Tools**: Git, VS Code, Linux, Windows  
-- **Frameworks & Libraries**: Bootstrap, Tailwind CSS, Google Fonts, Font Awesome  
+- **Frameworks & Libraries**: Django, Bootstrap, Tailwind CSS, Google Fonts, Font Awesome  
 - **Databases**: MySQL, SQLite  
 - **Currently Learning**: React and AI
 
