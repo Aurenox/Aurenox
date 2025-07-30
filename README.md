@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 
 - 📧 Email: [saurav04atg@gmail.com](mailto:saurav04atg@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/saurav-b-a864a7326](https://in.linkedin.com/in/saurav-b-a864a7326)
-- 🌐 Portfolio: [sauravb.dev](https://aurenox.github.io/Aurenox/](https://aurenox.github.io/Aurenox/)
+- 🌐 Portfolio: [https://aurenox.github.io/Aurenox/](https://aurenox.github.io/Aurenox/)
 - 🐙 GitHub: [https://github.com/sauravatg](https://github.com/sauravatg)
 
 ---
