@@ -20,10 +20,18 @@ Welcome to my GitHub profile! I'm passionate about coding, building useful thing
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aurenox&show_icons=true&theme=radical" alt="GitHub Stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurenox&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aurenox&show_icons=true&theme=radical&hide_border=true"
+    alt="Aurenox GitHub Stats"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurenox&layout=compact&theme=radical&hide_border=true"
+    alt="Aurenox Top Languages"
+  />
+</p>
 ---
 
 ## 📫 How to Reach Me
