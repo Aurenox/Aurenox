@@ -1,52 +1,73 @@
 # 👋 Hi, I'm Saurav B
 
-### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
+### 💻 Developer • 🚀 Tech Enthusiast • 🌱 Lifelong Learner
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+ideas+into+code;Exploring+AI+%26+Web+Development;Learning+Something+New+Every+Day;Code.+Break.+Repeat." alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm passionate about coding, building useful things, and constantly learning new technologies.
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer who enjoys **building things, experimenting with technology, and learning by doing**.
+
+I like turning ideas into working projects — from web applications and AI experiments to creative side projects.
+
+- 🔭 Currently exploring **AI**
+- 🌐 Interested in **Web Development**
+- 🧠 Learning through **real projects**
+- 🚀 Love experimenting with new technologies
+- 🧪 Enjoy building unusual and fun projects
+- 💡 Always looking for something new to build
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages**: C, Java, Python, JavaScript, HTML, CSS  
-- **Tools**: Git, VS Code, Linux, Windows  
-- **Frameworks & Libraries**:Mern, Django, Bootstrap, Tailwind CSS, Google Fonts, Font Awesome  
-- **Databases**: MySQL, SQLite  
-- **Currently Learning**: AI
+### 💻 Languages
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aurenox&show_icons=true&theme=radical&hide_border=true"
-    alt="Aurenox GitHub Stats"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurenox&layout=compact&theme=radical&hide_border=true"
-    alt="Aurenox Top Languages"
-  />
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,tailwind" />
 </p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
+</p>
+
+### 🤖 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ai" />
+</p>
+
 ---
 
-## 📫 How to Reach Me
+## 🚀 What I'm Interested In
 
-- 📧 Email: [saurav04atg@gmail.com](mailto:saurav04atg@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/saurav-b-a864a7326](https://in.linkedin.com/in/saurav-b-a864a7326)
-- 🌐 Portfolio: [https://aurenox.github.io/Aurenox/](https://aurenox.github.io/Aurenox/)
-- 🐙 GitHub: [https://github.com/sauravatg](https://github.com/sauravatg)
-
----
-
-## 🔥 Fun Facts
-
-- 🎮 I love building fun side projects and automating boring tasks.  
-- 🌍 I enjoy learning about new cultures and languages.  
-- 💡 I believe in **"Code. Break. Repeat."**
-
----
+```text
+🌐 Web Development
+        ↓
+🤖 Artificial Intelligence
+        ↓
+👁️ Computer Vision
+        ↓
+🎨 Creative Development
+        ↓
+🧪 Experimental Projects
+        ↓
+🚀 Hackathons
